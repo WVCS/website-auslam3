@@ -1,18 +1,18 @@
 body{
-  background-color: #E8985E;
+  background-color: #F8C7CC;
 }
 h1{
   font-size: 400%;
-  color: #EB5E28;
+  color: #ED217C;
   font-family: "Papyrus";
 }
 p{
   font-size: 200%;
-  color: #EB5E28
+  color: #ED217C
 }
 img{
   border-style: ridge;
-  border-color: #F28F3B;
+  border-color: #ED217C;
 }
 ul{
   text-align: center;
@@ -25,9 +25,9 @@ li{
 }
 li a{
   padding: 10px;
-  color: #EB5E28;
+  color: #ED217C;
   border:ridge;
 }
 li a:hover{
-  background-color: #EABA6B;
+  background-color: #FF7B9C;
 }
