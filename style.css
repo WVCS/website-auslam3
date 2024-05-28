@@ -1,3 +1,33 @@
-body {
-
+body{
+  background-color: #E8985E;
+}
+h1{
+  font-size: 400%;
+  color: #EB5E28;
+  font-family: "Papyrus";
+}
+p{
+  font-size: 200%;
+  color: #EB5E28
+}
+img{
+  border-style: ridge;
+  border-color: #F28F3B;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  font-family: "papyrus";
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 10px;
+  color: #EB5E28;
+  border:ridge;
+}
+li a:hover{
+  background-color: #EABA6B;
 }
